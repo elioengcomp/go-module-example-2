@@ -3,10 +3,10 @@ package example
 import (
 	"fmt"
 
-	example_3 "github.com/elioengcomp/go-module-example-3"
+	example_3 "github.com/Elioengcomp/go-module-example-3"
 )
 
-const version = "v1.0.0"
+const version = "v1.0.1"
 
 func Exec() string {
 
